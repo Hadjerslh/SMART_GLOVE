@@ -77,9 +77,10 @@ that tracks **heart rate**, **steps**, **temperature**, and **water intake**, wh
 }
 ```
 
-## 📷 Demo (Optional)
+## 📷 Demo Video
 
-*Include photos or videos of your setup here.*
+[watch the video here](https://youtu.be/7Uqezxo6oyE?si=jq7Pv-FplgDaJkyQ).
+
 
 ## 📌 TODO
 
